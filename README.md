@@ -8,6 +8,7 @@ ________________________________________________________________________________
 ## 2- Data Description :
 
 | Table	| Field	| Description |
+|-----|----------------|--------------- |
 | menu_items	| menu_item_id	| Unique ID of a menu item |
 | menu_items	| item_name	| Name of a menu item |
 | menu_items	| category	| Category or type of cuisine of the menu item |
